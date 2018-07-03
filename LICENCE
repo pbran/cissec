@@ -1,6 +1,8 @@
 COPYRIGHT AND LICENSE
 
-Copyright (c) 2015, Ross Hamilton. All rights reserved.
+Copyright (c) 2018, Paul Branston . All rights reserved.
+Based on a copyrighted (2015) work of Ross Hamilton.
+
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are
@@ -13,7 +15,7 @@ met:
   notice, this list of conditions and the following disclaimer in the
   documentation and/or other materials provided with the distribution.
 
-* Neither the name of Ross Hamilton nor the names of contributors
+* Neither the name of Ross Hamilton, Paul Branston nor the names of contributors
   may be used to endorse or promote products derived from this
   software without specific prior written permission.
 
